@@ -7,5 +7,4 @@ export default {
   name: "Home",
   components: {},
 };
-// 测试
 </script>
