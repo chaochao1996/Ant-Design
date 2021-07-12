@@ -6,7 +6,6 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view />
-    <!-- 你好 -->
   </div>
 </template>
 
