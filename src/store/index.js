@@ -8,5 +8,5 @@ export default new Vuex.Store({
   mutations: {},
   actions: {},
   modules: {},
-  // 你好a'a
+  // 你好a'aaa
 });
