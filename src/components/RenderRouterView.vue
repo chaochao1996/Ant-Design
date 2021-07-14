@@ -1,5 +1,5 @@
 <template>
-  <royter-view></royter-view>
+  <router-view></router-view>
 </template>
 
 <script>
